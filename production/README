@@ -1,0 +1,28 @@
+Name: HOARD
+Ticker: $HOARD
+Total Supply: 3,000,000,000 $HOARD
+
+Token Standard:
+- SPL (Solana Program Library) Token Standard
+
+Contract Address:
+- To be generated upon deployment
+
+Transaction Fees:
+
+- Fee Rate: 2%
+- Destination: All transaction fees go straight to the ecosystem treasury.
+- Purpose: Support ongoing development, marketing, and ecosystem growth.
+
+Holder Rewards:
+
+- Reward Rate: 2%
+- Destination: Funds the reward treasury.
+- Purpose: Helps determines the size of staking reward.
+
+Total Transaction Reduction:
+
+- Overall Reduction: Each transaction incurs a 4% fee.
+- Breakdown:
+- 2% to the ecosystem treasury.
+- 2% to the reward treasury.
