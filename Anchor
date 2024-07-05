@@ -1,0 +1,28 @@
+[programs.localnet]
+hoard_token = "YourLocalnetProgramID"
+
+[programs.devnet]
+hoard_token = "YourDevnetProgramID"
+
+[programs.testnet]
+hoard_token = "YourTestnetProgramID"
+
+[programs.mainnet]
+hoard_token = "YourMainnetProgramID"
+
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "anchor test"
+deploy = "anchor deploy"
+verify = "anchor verify"
+
+[registry]
+url = "https://anchor.project-serum.com"
+
+[workspace]
+members = [
+    "programs/hoard_token",
+]

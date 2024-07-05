@@ -1,4 +1,5 @@
 [workspace]
 members = [
-    "programs/hoard_program",
+    "programs/token_program",
 ]
+resolver = "2"

@@ -1,0 +1,12 @@
+[provider]
+cluster = "http://127.0.0.1:8899"
+wallet = "~/.config/solana/id.json"
+
+[programs.localnet]
+token_program = "Gc5TQ47BwF2otxNoQpEbreUjMaLskutaBWGfDUwasWgd"
+
+[scripts]
+test = "anchor test"
+
+[features]
+seeds = true
