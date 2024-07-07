@@ -1,0 +1,18 @@
+{
+    "name": "HOARD",
+    "symbol": "HOARD",
+    "description": "A surreal experiment coin built created by David B. https://x.com/davidb_onchain",
+    "image": "https://xqmbqhvnrrowjww3h5gzcovkxp24obi6bs56fzgkzvwb6nrlp4na.arweave.net/vBgYHq2MXWTa2z9NkTqqu_XHBR4Mu-Lkys1sHzYrfxo",
+    "external_url": "https://theaffluents.xyz",
+    "extensions": {
+        "twitter": "https://twitter.com/BodenOnSolana",
+        "telegram": "https://t.me/jeo_boden"
+    },
+    "tags": [
+        "Meme"
+    ],
+    "creator": {
+        "name": "The Affluents",
+        "site": "https://theaffluents.xyz"
+    }
+}

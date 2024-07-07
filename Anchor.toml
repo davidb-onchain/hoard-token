@@ -3,10 +3,10 @@ cluster = "http://127.0.0.1:8899"
 wallet = "~/.config/solana/id.json"
 
 [programs.localnet]
-token_program = "Gc5TQ47BwF2otxNoQpEbreUjMaLskutaBWGfDUwasWgd"
+token_program = "7pdu5d6AMN92b6amJeYXmdivLyPWcXzYURLfm6iqpPP3"
 
 [scripts]
-test = "anchor test"
+test = "npx mocha tests/**/*"
 
-[features]
-seeds = true
+[test]
+startup_wait = 30

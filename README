@@ -1,28 +1,33 @@
+Token Details
+
 Name: HOARD
 Ticker: $HOARD
-Total Supply: 3,000,000,000 $HOARD
+Total Supply: 3,000,000,000
+Category: Meme, Surrealism
+Blockchain: Solana
+Decimals: 9
 
 Token Standard:
-- SPL (Solana Program Library) Token Standard
+- SPL Token Standard (Token Extensions Program)
 
-Contract Address:
-- To be generated upon deployment
+Current Features
 
-Transaction Fees:
+✔️ No Team allocation
+✔️ No Bots or Paid Followers
+✔️ Will not pay CEXs for listings
+✔️ Will not pay for influencers or shills
+✔️ Will not pay market makers
+✔️ Flat rate of 0.001 SOL for all during presale
+✔️ Free and fair airdrop campaign
+✔️ 3% fee goes straight to rewards treasury
+✔️ 100% circulating supply after pre-sale
 
-- Fee Rate: 2%
-- Destination: All transaction fees go straight to the ecosystem treasury.
-- Purpose: Support ongoing development, marketing, and ecosystem growth.
+Features Roadmap:
 
-Holder Rewards:
-
-- Reward Rate: 2%
-- Destination: Funds the reward treasury.
-- Purpose: Helps determines the size of staking reward.
-
-Total Transaction Reduction:
-
-- Overall Reduction: Each transaction incurs a 4% fee.
-- Breakdown:
-- 2% to the ecosystem treasury.
-- 2% to the reward treasury.
+✔️ Airdrop Campaign
+✔️ Live Pre-Sale
+- Token Website
+- Liquidity Mining
+- Collectible Staking
+- Token Vesting
+- Automated Airdrop
